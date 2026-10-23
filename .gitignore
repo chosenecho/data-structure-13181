@@ -1,0 +1,14 @@
+# 原件目录不进仓库：包含教材 PDF、第三方整理的题库与讲义，不随仓库分发
+原件/
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# 临时文件
+*.tmp
+*~
+~$*
